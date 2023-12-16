@@ -4,7 +4,6 @@ Getting started with solidity smart contracts Audting | Security checkup | revie
 
 ### Getting started
 
-
-<hr>
+-------------------------------
 
 @Jonas-sebera
